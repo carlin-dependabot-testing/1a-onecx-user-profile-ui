@@ -9,7 +9,7 @@
     "relay-runtime": "9.1.0",
     "urql": "1.10.0",
     "type-graphql": "1.0.0",
-    "graphql-tools": "6.0.0",
+    "graphql-tools": "9.0.26",
     "graphql-tag": "2.10.0",
     "graphql-request": "2.0.0",
     "dataloader": "2.0.0"
