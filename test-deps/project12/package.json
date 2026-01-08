@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "fs-extra": "9.0.0",
+    "fs-extra": "11.3.3",
     "glob": "7.1.0",
     "rimraf": "3.0.0",
     "mkdirp": "1.0.0",
