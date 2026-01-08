@@ -52,7 +52,7 @@
     "@ngrx/router-store": "^18.0.1",
     "@ngx-translate/core": "^15.0.0",
     "@ngx-translate/http-loader": "^8.0.0",
-    "@onecx/accelerator": "^5.47.4",
+    "@onecx/accelerator": "^6.8.1",
     "@onecx/angular-accelerator": "^5.47.4",
     "@onecx/angular-auth": "^5.47.4",
     "@onecx/angular-integration-interface": "^5.47.4",
