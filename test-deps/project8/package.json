@@ -1,0 +1,17 @@
+{
+  "name": "test-project-8",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "socket.io": "2.3.0",
+    "socket.io-client": "2.3.0",
+    "ws": "7.3.0",
+    "mqtt": "4.1.0",
+    "amqplib": "0.6.0",
+    "kafka-node": "5.0.0",
+    "redis": "3.0.0",
+    "ioredis": "4.17.0",
+    "bull": "3.18.0",
+    "agenda": "3.1.0"
+  }
+}

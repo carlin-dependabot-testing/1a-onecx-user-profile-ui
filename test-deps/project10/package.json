@@ -1,0 +1,17 @@
+{
+  "name": "test-project-10",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "passport": "0.4.0",
+    "bcrypt": "5.0.0",
+    "jsonwebtoken": "8.5.0",
+    "cookie-parser": "1.4.0",
+    "express-session": "1.17.0",
+    "cors": "2.8.0",
+    "helmet": "3.23.0",
+    "morgan": "1.10.0",
+    "compression": "1.7.0",
+    "body-parser": "1.19.0"
+  }
+}

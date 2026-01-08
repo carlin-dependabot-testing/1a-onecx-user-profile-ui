@@ -1,0 +1,17 @@
+{
+  "name": "test-project-9",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "mongoose": "5.9.0",
+    "sequelize": "5.22.0",
+    "typeorm": "0.2.25",
+    "knex": "0.21.0",
+    "bookshelf": "1.2.0",
+    "objection": "2.2.0",
+    "pg": "8.2.0",
+    "mysql": "2.18.0",
+    "mysql2": "2.1.0",
+    "sqlite3": "5.0.0"
+  }
+}
