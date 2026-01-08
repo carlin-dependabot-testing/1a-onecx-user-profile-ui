@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "mongoose": "5.9.0",
+    "mongoose": "9.1.2",
     "sequelize": "5.22.0",
     "typeorm": "0.2.25",
     "knex": "0.21.0",
