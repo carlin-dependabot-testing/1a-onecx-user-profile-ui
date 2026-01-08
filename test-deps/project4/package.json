@@ -5,7 +5,7 @@
   "dependencies": {
     "redux": "4.0.0",
     "redux-thunk": "2.3.0",
-    "redux-saga": "1.1.0",
+    "redux-saga": "1.4.2",
     "mobx": "5.15.0",
     "mobx-react": "6.3.0",
     "recoil": "0.0.10",
