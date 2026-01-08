@@ -4,6 +4,7 @@ updates:
     directory: "/"
     schedule:
       interval: daily
+    open-pull-requests-limit: 150
     labels:
       - dependencies
     groups:
@@ -21,6 +22,90 @@ updates:
         update-types:
         - "minor"
         - "patch"
+  - package-ecosystem: npm
+    directory: "/test-deps/project1"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project2"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project3"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project4"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project5"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project6"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project7"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project8"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project9"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project10"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project11"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
+  - package-ecosystem: npm
+    directory: "/test-deps/project12"
+    schedule:
+      interval: daily
+    open-pull-requests-limit: 150
+    labels:
+      - dependencies
   - package-ecosystem: "docker"
     directory: "/"
     schedule:
