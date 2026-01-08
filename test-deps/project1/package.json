@@ -10,7 +10,7 @@
     "react": "16.8.0",
     "react-dom": "16.8.0",
     "vue": "2.6.0",
-    "webpack": "4.41.0",
+    "webpack": "5.104.1",
     "typescript": "3.7.0",
     "prettier": "1.19.0"
   }
