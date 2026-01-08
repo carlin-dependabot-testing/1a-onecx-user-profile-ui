@@ -11,7 +11,7 @@
     "postcss": "7.0.0",
     "autoprefixer": "9.8.0",
     "tailwindcss": "1.8.0",
-    "bootstrap": "4.5.0",
+    "bootstrap": "5.3.8",
     "material-ui": "0.20.0"
   }
 }
