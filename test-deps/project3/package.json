@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "next": "9.5.0",
+    "next": "16.1.1",
     "nuxt": "2.14.0",
     "gatsby": "2.24.0",
     "create-react-app": "3.4.0",
