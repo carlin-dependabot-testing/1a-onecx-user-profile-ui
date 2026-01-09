@@ -6,7 +6,7 @@
     "graphql": "14.7.0",
     "apollo-client": "2.6.0",
     "apollo-server": "2.16.0",
-    "relay-runtime": "9.1.0",
+    "relay-runtime": "20.1.1",
     "urql": "1.10.0",
     "type-graphql": "1.0.0",
     "graphql-tools": "6.0.0",
