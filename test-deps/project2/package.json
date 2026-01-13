@@ -8,7 +8,7 @@
     "jest": "24.9.0",
     "mocha": "7.1.0",
     "chai": "4.2.0",
-    "sinon": "8.1.0",
+    "sinon": "21.0.1",
     "karma": "4.4.0",
     "protractor": "5.4.0",
     "jasmine-core": "3.5.0",
