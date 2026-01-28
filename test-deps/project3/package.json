@@ -9,7 +9,7 @@
     "create-react-app": "3.4.0",
     "angular": "1.7.0",
     "ember-cli": "3.20.0",
-    "svelte": "3.24.0",
+    "svelte": "5.48.5",
     "preact": "10.4.0",
     "backbone": "1.4.0",
     "jquery": "3.4.0"
