@@ -68,7 +68,7 @@
     "file-saver": "^2.0.5",
     "i18n-iso-countries": "^7.13.0",
     "keycloak-angular": "^16.1.0",
-    "ngx-image-compress": "^18.1.5",
+    "ngx-image-compress": "^18.1.7",
     "primeflex": "^4.0.0",
     "primeicons": "^7.0.0",
     "primeng": "^17.18.11",
