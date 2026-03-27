@@ -67,7 +67,7 @@
     "@webcomponents/webcomponentsjs": "^2.8.0",
     "file-saver": "^2.0.5",
     "i18n-iso-countries": "^7.13.0",
-    "keycloak-angular": "^16.1.0",
+    "keycloak-angular": "^21.0.0",
     "ngx-image-compress": "^18.1.5",
     "primeflex": "^4.0.0",
     "primeicons": "^7.0.0",
