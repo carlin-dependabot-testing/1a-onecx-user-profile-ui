@@ -5,7 +5,7 @@
   "dependencies": {
     "mongoose": "5.9.0",
     "sequelize": "5.22.0",
-    "typeorm": "0.2.25",
+    "typeorm": "0.3.28",
     "knex": "0.21.0",
     "bookshelf": "1.2.0",
     "objection": "2.2.0",
