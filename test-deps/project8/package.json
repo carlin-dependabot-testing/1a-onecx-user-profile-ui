@@ -9,7 +9,7 @@
     "mqtt": "4.1.0",
     "amqplib": "0.6.0",
     "kafka-node": "5.0.0",
-    "redis": "3.0.0",
+    "redis": "5.10.0",
     "ioredis": "4.17.0",
     "bull": "3.18.0",
     "agenda": "3.1.0"
