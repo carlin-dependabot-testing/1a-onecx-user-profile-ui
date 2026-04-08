@@ -10,7 +10,7 @@
     "urql": "1.10.0",
     "type-graphql": "1.0.0",
     "graphql-tools": "6.0.0",
-    "graphql-tag": "2.10.0",
+    "graphql-tag": "2.12.6",
     "graphql-request": "2.0.0",
     "dataloader": "2.0.0"
   }
